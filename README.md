@@ -3,11 +3,11 @@ Web services ini memberikan layanan berupa pencatatan pengeluaran keuangan sehin
 
 Berikut list parameter API dengan membuat request HTTP ke endpoints berikut:
 
-GET /expenses/ - me-list semua pengeluaran
-POST /expenses/ - membuat pengeluaran baru
-GET /expenses/{id}/ - mengambil pengeluaran dengan id tertentu
-PUT /expenses/{id}/ - perbarui pengeluaran dentan id tertentu
-DELETE /expenses/{id}/ - hapus pengeluaran dengan id tertentu
+- GET /expenses/ - me-list semua pengeluaran
+- POST /expenses/ - membuat pengeluaran baru
+- GET /expenses/{id}/ - mengambil pengeluaran dengan id tertentu
+- PUT /expenses/{id}/ - perbarui pengeluaran dentan id tertentu
+- DELETE /expenses/{id}/ - hapus pengeluaran dengan id tertentu
 
 Untuk tingkat kesulitan dari membuat web services dari expense tracker kali ini sepertinya berada pada kategori menengah keatas.
 
